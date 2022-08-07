@@ -33,4 +33,4 @@ def quiz():
     print(score, "out of", len(questions), "that is", float(score / len(questions)) * 100, "%")
 
 if __name__ == "__main__":
-    quiz()
+    quiz() 
